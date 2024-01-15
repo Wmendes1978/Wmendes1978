@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Python e Front end 
+Eu sou Washington Mendes, Estudante de Python e Front-end!
 
 
 ## 🌐 Socials:
