@@ -1,9 +1,4 @@
 # 💫 About Me:
-Claro, aqui está uma sugestão para o seu "about me" no Git:
-
----
-
-## Sobre Mim
 
 Olá! 👋 Eu sou o Washington Mendes, um entusiasta da tecnologia em constante busca por aprendizado e crescimento. Atualmente, estou focado em desenvolver minhas habilidades em Python e Front-end, enquanto embarco em uma emocionante transição de carreira.
 
